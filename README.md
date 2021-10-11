@@ -15,7 +15,7 @@ This repository mainly implements some typical Reinforcement Learning algorithms
 <div align=center>
 <table>
   <tr>
-    <td><img src="https://github.com/JORKER1755/TabularRL/blob/main/Gif/mining.gif" alt="value update_h" width="400"/></a></td>
+    <td><img src="https://github.com/JORKER1755/TablularRL/blob/main/Gif/mining.gif" alt="value update_h" width="400"/></a></td>
   </tr>
 </table>
 </div>
